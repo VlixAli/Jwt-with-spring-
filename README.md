@@ -54,7 +54,7 @@ cd src/main/resources
 cp .env.example .env
 ````
 
-then run the following commands to install dependencies and run the project
+then run the following commands to run the project
 
 ````
 cd ../../../
