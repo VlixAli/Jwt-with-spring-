@@ -1,4 +1,4 @@
-package com.seinfeld.security.config;
+package com.seinfeld.security.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
