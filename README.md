@@ -48,7 +48,7 @@
 First clone this repository, install the dependencies, and setup your .env file.
 
 ````
-git clone https://github.com/VlixAli/Jwt-with-spring-
+git clone https://github.com/VlixAli/Jwt-with-spring-.git
 mvn clean install
 cd src/main/resources
 cp .env.example .env
